@@ -1,0 +1,33 @@
+<?php
+$lang['project_detail'] = "proje detay";
+$lang['close'] = "kapat";
+$lang['category'] = "servis";
+$lang['start_date'] = "başlangıç ​​tarihi";
+$lang['post_by'] = "tarafından gönderildi";
+$lang['email'] = "Email";
+$lang['phone'] ="telefon";
+$lang['pref_contact'] = "pref temas";
+$lang['budget'] = "bütçe";
+$lang['currency'] = "Para Birimi";
+$lang['duration'] = "süre";
+$lang['duration_type'] = "süre türü";
+$lang['address'] = "adres";
+$lang['project_status'] = "projenin durumu";
+$lang['time'] = "zaman";
+$lang['rate'] = "oran";
+$lang['apply_job'] = "Bu iş uygula";
+$lang['post_bid'] = "Senin Teklifi yayınla";
+$lang['under_process'] = "Proje süreci altında";
+$lang['project_closed'] = "Proje Kapalı olmuştur";
+$lang['project_bid'] = "proje teklifi";
+$lang['assign'] = "atamak";
+$lang['complete'] = "tam";
+$lang['please'] = "Lütfen belirtiniz";
+$lang['feedback'] = "geribesleme";
+$lang['feedback_title'] = "geribesleme başlık";
+$lang['rating'] = "değerlendirme";
+$lang['professional_name'] = "profesyonel ismi";
+$lang['close_project'] = "Bu projeyi kapatın";
+$lang['edit'] = "düzenlemek";
+$lang['cancel'] = "iptal";
+ ?>
